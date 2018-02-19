@@ -125,6 +125,8 @@ We've made sure to check that slideNav works on as many browsers as possible. We
 
 - Chrome
 - Firefox
+- Safari
+- Internet Explorer
 - iOS Safari
 
 
