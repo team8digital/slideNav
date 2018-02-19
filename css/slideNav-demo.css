@@ -1,0 +1,39 @@
+/*
+
+DEMO CSS - you don't have to include this file.
+
+*/
+
+html, body {
+    font-family: 'Arial', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.your-header {
+    background: #eee;
+    padding: 25px;
+    min-height: 56px;
+}
+
+.your-menu {
+    float: right;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.open-btn {
+    font-size: 3.2em;
+}
+
+.text-right {
+    text-align: right;
+}
