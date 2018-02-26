@@ -47,7 +47,7 @@ In this Markup we're using **Google Material Icons** for the icons. You can choo
 </nav>
 ```
 
-**Multi-level drodpwon HTML Markup**
+**Multi-level dropdown HTML Markup**
 
 To add dropdown links to your menu, simply add as many as the following to your menu:
 
@@ -101,7 +101,7 @@ Applying these options is easy, here's an example
 
 #### Menu Display
 
-As a mobile-first menu, we assume you aren't using any current menu that automatically changes to a mobile menu on a smaller display. If this is the case, you can hide your current menu on amsllaer device and show the slideNav menu on a smaller screen.
+As a mobile-first menu, we assume you aren't using any current menu that automatically changes to a mobile menu on a smaller display. If this is the case, you can hide your current menu on a smaller device and show the slideNav menu on a smaller screen.
 
 Example:
 
